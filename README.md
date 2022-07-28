@@ -18,7 +18,7 @@ npm run dev
 * [Tailwind CSS](https://tailwindcss.com) 
 * [SWR](https://swr.vercel.app) 
 * [react-hook-form](https://react-hook-form.com/) 
-* [yup](https://www.npmjs.com/package/yup))
+* [yup](https://www.npmjs.com/package/yup)
 * [react-input-mask](https://www.npmjs.com/package/react-input-mask)
 
 ## Author:
