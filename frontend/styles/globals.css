@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+  h1,tr {
+    margin-top: 4px;
+    font-family: 'Raleway', sans-serif;
+  }
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,th {
+  border: 1px solid #daeff4;
+  text-align: center;
+  padding-right: 20px;
+}
+
+tr:nth-child(even) {
+  background-color: #daeff4;
+}
+
